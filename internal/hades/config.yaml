@@ -1,0 +1,37 @@
+LogConf:
+  LogPath: logs_test
+  Level: info
+  Prefix: server-name
+  MaxSize: 200
+  MaxAge: 3 #3天保留
+  MaxBackups: 5
+BaiduConf:
+  BOSAK:
+  BOSSK:
+
+MagicAvatarConf:
+  Queuelen: 30 #队列长度
+  QueueWaitLen: 5 #队列大于配置就提示等待中
+  CronTime: 1 # 定时分钟数
+
+
+ServerConf:
+  Port: 9210
+
+Mysql:
+  - Name: Magicavtar
+    Host: "82.157.56.198"
+    Username: "root"
+    Port: 3306
+    Password: "5db4E35d@Ab"
+    DBName: "magic_users"
+Redis:
+  - Name: MagicTask
+    Host: "81.68.203.164:6380"
+    Password: "alibabaownmymoney"
+    DB: 0
+
+ClientConf:
+  - Name:
+    ServerName: function.service.xxx
+    Endpoint: 10.10.10.10

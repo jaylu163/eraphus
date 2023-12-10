@@ -1,0 +1,53 @@
+2023-03-16 20:47:00 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "9fe93bad-e624-4c71-9323-c0c25fbc58f0", "args": ["func:","context"]}
+2023-03-16 20:47:00 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "43808df2-fa13-4245-9d5d-6a993781bc18", "args": null}
+2023-03-16 20:47:45 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "3893a093-b2f1-437e-87fb-bfe87e085323", "args": ["func:","context"]}
+2023-03-16 20:47:45 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "c2fcaa10-46bf-49c1-8243-38ea8760c2fd", "args": null}
+2023-03-16 20:47:45 [34mINFO[0m logs/logger.go:152 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:107.339ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 20:49:20 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "4418548a-17bf-419e-8210-87a0acf69423", "args": ["func:","context"]}
+2023-03-16 20:49:20 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "8872a311-e16b-4556-a216-98fcd5d31b4f", "args": null}
+2023-03-16 20:49:20 [34mINFO[0m logs/logger.go:152 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:92.153ms file: sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 20:49:32 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "78eb7f83-84fa-4650-9cc1-944dafcfd7bf", "args": ["func:","context"]}
+2023-03-16 20:49:32 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "0d07e6d4-b651-48ec-a69c-102e30c10b23", "args": null}
+2023-03-16 20:49:32 [34mINFO[0m logs/logger.go:152 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:104.302ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 20:55:41 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "997e6d8f-0e3e-46c9-b38f-06732219a472", "args": ["func:","context"]}
+2023-03-16 20:55:41 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "6f802e66-075a-4a02-9d7c-dedc16603d84", "args": null}
+2023-03-16 20:55:41 [34mINFO[0m logs/logger.go:152 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:102.695ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:11:31 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "c399bcdf-23f3-499c-87f5-7d930d1f2e5d", "args": ["func:","context"]}
+2023-03-16 21:11:31 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "19a3d8d7-fa0f-4e9c-94e4-c742c9ffb771", "args": null}
+2023-03-16 21:11:31 [34mINFO[0m logs/logger.go:152 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:90.139ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:13:04 [34mINFO[0m runtime/proc.go:250 runtime.main msg:info logs .... {"trace_id": "33dfcf5b-8920-4485-8cf9-cfee1ccd5928", "args": ["func:","context"]}
+2023-03-16 21:13:04 [34mINFO[0m runtime/proc.go:250 runtime.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "63a1e60d-3d86-4da8-ac2a-ef568d217ff7", "args": null}
+2023-03-16 21:13:04 [34mINFO[0m log/log.go:194 log.(*Logger).Output latency:112.979ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:13:21 [34mINFO[0m runtime/asm_amd64.s:1598 runtime.goexit msg:info logs .... {"trace_id": "f66c8407-e774-4674-a98a-2288b14c8b9e", "args": ["func:","context"]}
+2023-03-16 21:13:21 [34mINFO[0m runtime/asm_amd64.s:1598 runtime.goexit aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "b7a62a2e-35e0-4a07-9179-8f029127d6a8", "args": null}
+2023-03-16 21:13:21 [34mINFO[0m log/log.go:204 log.(*Logger).Printf latency:90.226ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:13:32 [34mINFO[0m zap@v1.24.0/sugar.go:168 go.uber.org/zap.(*SugaredLogger).Infof msg:info logs .... {"trace_id": "38688a1a-5335-49cd-99d4-93eaacc61d31", "args": ["func:","context"]}
+2023-03-16 21:13:32 [34mINFO[0m zap@v1.24.0/sugar.go:168 go.uber.org/zap.(*SugaredLogger).Infof aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "59b5ccf4-4b4c-49bf-a6c7-22a432ef16ef", "args": null}
+2023-03-16 21:13:32 [34mINFO[0m zap@v1.24.0/sugar.go:168 go.uber.org/zap.(*SugaredLogger).Infof latency:92.015ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:13:44 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "66086819-5cce-40e7-9968-d8e5300fd34d", "args": ["func:","context"]}
+2023-03-16 21:13:44 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "3590e637-cc57-4c9d-990c-cea7ed2832d4", "args": null}
+2023-03-16 21:13:44 [34mINFO[0m logs/logger.go:152 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:121.054ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:35:04 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "f07eea99-087c-4a01-b63f-c7881fcf6e61", "args": ["func:","context"]}
+2023-03-16 21:35:04 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "23f6501f-1527-4ada-af89-04ac31d5b5f6", "args": null}
+2023-03-16 21:35:05 [34mINFO[0m logs/logger.go:154 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:222.348ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1]
+2023-03-16 21:35:28 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "19dd31e9-ae53-4a0c-b81c-9b802ee828e0", "args": ["func:","context"]}
+2023-03-16 21:35:28 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "b8b3e7f2-3a1b-40a0-9408-eebc54debc61", "args": null}
+2023-03-16 21:35:29 [34mINFO[0m logs/logger.go:154 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:209.895ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}
+2023-03-16 21:37:46 [34mINFO[0m hades/server.go:26 main.main msg:info logs .... {"trace_id": "d184fc8f-2fa7-49fe-b06d-d2077d2bb8ce", "args": ["func:","context"]}
+2023-03-16 21:37:46 [34mINFO[0m hades/server.go:28 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "40164866-8fb0-4285-a2c2-1d53656ad3d2", "args": null}
+2023-03-16 21:37:46 [34mINFO[0m logs/logger.go:153 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:187.730ms file:server.go:38 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}
+2023-03-16 21:40:16 [34mINFO[0m hades/server.go:27 main.main msg:info logs .... {"trace_id": "753600bc-8279-4393-ae89-28182427913a", "args": ["func:","context"]}
+2023-03-16 21:40:16 [34mINFO[0m hades/server.go:29 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "753600bc-8279-4393-ae89-28182427913a", "args": null}
+2023-03-16 21:40:16 [34mINFO[0m logs/logger.go:153 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:213.842ms file:server.go:39 sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}
+2023-03-16 21:43:44 [34mINFO[0m hades/server.go:27 main.main msg:info logs .... {"trace_id": "00c7a79a-8a7f-4177-bb18-5bbf786bf256", "args": ["func:","context"]}
+2023-03-16 21:43:44 [34mINFO[0m hades/server.go:29 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "00c7a79a-8a7f-4177-bb18-5bbf786bf256", "args": null}
+2023-03-16 21:43:44 [34mINFO[0m logs/logger.go:153 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:225.650ms file: sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}
+2023-03-16 21:46:56 [34mINFO[0m hades/server.go:27 main.main msg:info logs .... {"trace_id": "905b9557-c1ae-47bc-8a6c-f769600eca1a", "args": ["func:","context"]}
+2023-03-16 21:46:56 [34mINFO[0m hades/server.go:29 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "905b9557-c1ae-47bc-8a6c-f769600eca1a", "args": null}
+2023-03-16 21:46:56 [34mINFO[0m logs/logger.go:153 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:211.780ms file: sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}
+2023-03-16 21:47:25 [34mINFO[0m hades/server.go:27 main.main msg:info logs .... {"trace_id": "e5e2677e-0fde-4332-ac41-197b0b734147", "args": ["func:","context"]}
+2023-03-16 21:47:25 [34mINFO[0m hades/server.go:29 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "e5e2677e-0fde-4332-ac41-197b0b734147", "args": null}
+2023-03-16 21:47:26 [34mINFO[0m logs/logger.go:155 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:179.996ms file: sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}
+2023-03-16 22:07:36 [34mINFO[0m hades/server.go:27 main.main msg:info logs .... {"trace_id": "f5bd43e5-a633-48fc-b4e0-71a65d15db7f", "args": ["func:","context"]}
+2023-03-16 22:07:36 [34mINFO[0m hades/server.go:29 main.main aaabb:你好嗷嗷，阿凡达反垄断法会 {"trace_id": "f5bd43e5-a633-48fc-b4e0-71a65d15db7f", "args": null}
+2023-03-16 22:07:37 [34mINFO[0m logs/logger.go:174 ai-peaceful-gihub.com/hades/logs.(*CareLog).Write latency:209.833ms file: sql:INSERT INTO `users` (`username`) VALUES ('zhang san') affect:[rows:1] {"trace_id": "abc"}

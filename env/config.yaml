@@ -1,0 +1,33 @@
+LogConf:
+  LogPath: logs
+  Level: info
+  Prefix: server-name
+  MaxSize: 200
+  MaxAge: 3 #3天保留
+  MaxBackups: 5
+ServerConf:
+  Port: 6600
+
+Mysql:
+  - Name: weishiji
+    Host: "127.0.0.1"
+    Username: "root"
+    Port: 3306
+    Password: "123456"
+    DBName: "wsga"
+  - Name: user
+    Host: "127.0.0.1"
+    Username: "root"
+    Port: 3306
+    Password: "123456"
+    DBName: "uos_users"
+
+Redis:
+  - Name: painting
+    Host: "81.68.203.164:6380"
+    Password: "alibabaownmymoney"
+    DB: 0
+  - Name: user
+    Host: "81.68.203.164:6380"
+    Password: "alibabaownmymoney"
+    DB: 1

@@ -1,0 +1,351 @@
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 d00454fs5f8 1] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0045cx4ynd 2] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 n0045rc0han 3] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 h0045bindzv 4] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 e0045qljjwf 5] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 s0045s7gvq4 6] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 e00453ru5cr 7] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 g00458qykqb 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 k0045aztfs9 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 p0045hrlrja 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 k0045ja04bh 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 j0045z6v534 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x004575haao 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 w0045ol12ww 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 v0045x5twe2 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 r00455515fe 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x0045a1o7vi 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x0045zxr3j2 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 i0045isirei 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 n0045uqauq7 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 b00456fzidg 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x0045to2nvt 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 u00456keqa3 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 e00456z8nos 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 w0045chplwt 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 h0045yugogm 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 v0045r84z6u 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0046xj9afx 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0046dpoose 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 r0045elgpbm 19] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 t0045gl5d7q 20] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0045a228mk 21] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 k0045ekxfu4 22] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 c00458upa7d 23] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:24:00 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 s00459wlni1 24] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 d00454fs5f8 1] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0045cx4ynd 2] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 n0045rc0han 3] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 h0045bindzv 4] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 e0045qljjwf 5] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 s0045s7gvq4 6] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 e00453ru5cr 7] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 g00458qykqb 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 k0045aztfs9 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 p0045hrlrja 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 k0045ja04bh 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 j0045z6v534 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x004575haao 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 w0045ol12ww 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 v0045x5twe2 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 r00455515fe 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x0045a1o7vi 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x0045zxr3j2 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 i0045isirei 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 n0045uqauq7 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 b00456fzidg 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 x0045to2nvt 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 u00456keqa3 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 e00456z8nos 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 w0045chplwt 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 h0045yugogm 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 v0045r84z6u 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0046xj9afx 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0046dpoose 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 r0045elgpbm 19] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 t0045gl5d7q 20] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 y0045a228mk 21] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 k0045ekxfu4 22] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 c00458upa7d 23] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof video info cid:[mzc00200x1fpzo9 s00459wlni1 24] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:16 [34mINFO[0m logs/logger.go:250 github.com/jaylu163/eraphus/internal/hades/logs.Infof info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 d00454fs5f8 1] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0045cx4ynd 2] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 n0045rc0han 3] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 h0045bindzv 4] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 e0045qljjwf 5] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 s0045s7gvq4 6] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 e00453ru5cr 7] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 g00458qykqb 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 k0045aztfs9 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 p0045hrlrja 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 k0045ja04bh 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 j0045z6v534 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x004575haao 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 w0045ol12ww 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 v0045x5twe2 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 r00455515fe 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x0045a1o7vi 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x0045zxr3j2 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 i0045isirei 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 n0045uqauq7 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 b00456fzidg 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x0045to2nvt 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 u00456keqa3 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 e00456z8nos 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 w0045chplwt 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 h0045yugogm 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 v0045r84z6u 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0046xj9afx 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0046dpoose 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 r0045elgpbm 19] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 t0045gl5d7q 20] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0045a228mk 21] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 k0045ekxfu4 22] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 c00458upa7d 23] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 s00459wlni1 24] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:25:46 [34mINFO[0m services/tencent_tv.go:77 github.com/jaylu163/eraphus/services.GetVideoList.func1 info:[aaa haha 芝士焗 abc] %!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 d00454fs5f8 1] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0045cx4ynd 2] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 n0045rc0han 3] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 h0045bindzv 4] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 e0045qljjwf 5] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 s0045s7gvq4 6] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 e00453ru5cr 7] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 g00458qykqb 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 k0045aztfs9 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 p0045hrlrja 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 k0045ja04bh 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 j0045z6v534 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x004575haao 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 w0045ol12ww 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 v0045x5twe2 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 r00455515fe 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x0045a1o7vi 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x0045zxr3j2 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 i0045isirei 8] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 n0045uqauq7 9] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 b00456fzidg 10] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 x0045to2nvt 11] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 u00456keqa3 12] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 e00456z8nos 13] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 w0045chplwt 14] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 h0045yugogm 15] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 v0045r84z6u 16] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0046xj9afx 17] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0046dpoose 18] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 r0045elgpbm 19] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 t0045gl5d7q 20] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 y0045a228mk 21] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 k0045ekxfu4 22] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 c00458upa7d 23] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:27:09 [34mINFO[0m services/tencent_tv.go:76 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:[mzc00200x1fpzo9 s00459wlni1 24] vid:%!s(MISSING) 剧集:%!s(MISSING)
+2023-04-02 22:27:09 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each info:aaa haha 芝士焗 abc {"trace_id": "", "args": ["func","infof"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:d00454fs5f8 剧集:1 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:y0045cx4ynd 剧集:2 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:n0045rc0han 剧集:3 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:h0045bindzv 剧集:4 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:e0045qljjwf 剧集:5 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:s0045s7gvq4 剧集:6 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:e00453ru5cr 剧集:7 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:g00458qykqb 剧集:8 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:k0045aztfs9 剧集:9 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:p0045hrlrja 剧集:10 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:k0045ja04bh 剧集:11 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:j0045z6v534 剧集:12 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:x004575haao 剧集:13 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:w0045ol12ww 剧集:14 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:v0045x5twe2 剧集:15 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:r00455515fe 剧集:16 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:x0045a1o7vi 剧集:17 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:x0045zxr3j2 剧集:18 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:i0045isirei 剧集:8 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:n0045uqauq7 剧集:9 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:b00456fzidg 剧集:10 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:x0045to2nvt 剧集:11 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:u00456keqa3 剧集:12 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:e00456z8nos 剧集:13 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:w0045chplwt 剧集:14 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:h0045yugogm 剧集:15 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:v0045r84z6u 剧集:16 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:y0046xj9afx 剧集:17 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:y0046dpoose 剧集:18 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:r0045elgpbm 剧集:19 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:t0045gl5d7q 剧集:20 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:y0045a228mk 剧集:21 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:k0045ekxfu4 剧集:22 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:c00458upa7d 剧集:23 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:28:38 [34mINFO[0m goquery@v1.8.1/iteration.go:10 github.com/PuerkitoBio/goquery.(*Selection).Each video info cid:mzc00200x1fpzo9 vid:s00459wlni1 剧集:24 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:d00454fs5f8 剧集:1 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0045cx4ynd 剧集:2 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:n0045rc0han 剧集:3 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:h0045bindzv 剧集:4 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:e0045qljjwf 剧集:5 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:s0045s7gvq4 剧集:6 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:e00453ru5cr 剧集:7 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:g00458qykqb 剧集:8 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:k0045aztfs9 剧集:9 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:p0045hrlrja 剧集:10 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:k0045ja04bh 剧集:11 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:j0045z6v534 剧集:12 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x004575haao 剧集:13 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:w0045ol12ww 剧集:14 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:v0045x5twe2 剧集:15 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:r00455515fe 剧集:16 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x0045a1o7vi 剧集:17 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x0045zxr3j2 剧集:18 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:i0045isirei 剧集:8 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:n0045uqauq7 剧集:9 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:b00456fzidg 剧集:10 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x0045to2nvt 剧集:11 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:u00456keqa3 剧集:12 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:e00456z8nos 剧集:13 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:w0045chplwt 剧集:14 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:h0045yugogm 剧集:15 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:v0045r84z6u 剧集:16 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0046xj9afx 剧集:17 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0046dpoose 剧集:18 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:r0045elgpbm 剧集:19 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:t0045gl5d7q 剧集:20 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0045a228mk 剧集:21 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:k0045ekxfu4 剧集:22 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:c00458upa7d 剧集:23 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:29:36 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:s00459wlni1 剧集:24 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:d00454fs5f8 剧集:1 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0045cx4ynd 剧集:2 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:n0045rc0han 剧集:3 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:h0045bindzv 剧集:4 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:e0045qljjwf 剧集:5 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:s0045s7gvq4 剧集:6 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:e00453ru5cr 剧集:7 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:g00458qykqb 剧集:8 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:k0045aztfs9 剧集:9 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:p0045hrlrja 剧集:10 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:k0045ja04bh 剧集:11 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:j0045z6v534 剧集:12 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x004575haao 剧集:13 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:w0045ol12ww 剧集:14 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:v0045x5twe2 剧集:15 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:r00455515fe 剧集:16 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x0045a1o7vi 剧集:17 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x0045zxr3j2 剧集:18 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:i0045isirei 剧集:8 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:n0045uqauq7 剧集:9 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:b00456fzidg 剧集:10 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:x0045to2nvt 剧集:11 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:u00456keqa3 剧集:12 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:e00456z8nos 剧集:13 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:w0045chplwt 剧集:14 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:h0045yugogm 剧集:15 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:v0045r84z6u 剧集:16 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0046xj9afx 剧集:17 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0046dpoose 剧集:18 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:r0045elgpbm 剧集:19 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:t0045gl5d7q 剧集:20 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:y0045a228mk 剧集:21 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:k0045ekxfu4 剧集:22 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:c00458upa7d 剧集:23 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:75 github.com/jaylu163/eraphus/services.GetVideoList.func1 video info cid:mzc00200x1fpzo9 vid:s00459wlni1 剧集:24 {"trace_id": "", "args": ["func","GetVideoList"]}
+2023-04-02 22:30:22 [34mINFO[0m services/tencent_tv.go:83 github.com/jaylu163/eraphus/services.GetVideoList video info cid:aaa vid:bbb {"trace_id": "", "args": ["func","GetVideoList"]}
