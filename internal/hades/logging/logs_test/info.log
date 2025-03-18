@@ -1,0 +1,2 @@
+2023-04-02 22:22:54 [34mINFO[0m logs/logger_test.go:21 github.com/jaylu163/eraphus/internal/hades/logs.TestSugarInit info:aaa haha 芝士焗 abc {"trace_id": "3d5eb221-ef32-48d7-ad2d-fa161e1302bd", "args": [["name","zhang"]]}
+2023-04-02 22:22:54 [34mINFO[0m logs/logger_test.go:23 github.com/jaylu163/eraphus/internal/hades/logs.TestSugarInit 你好:中国!😄 {"trace_id": "48a2f6cc-7f62-4b8b-831e-8a7fce890986", "args": ["func:","context"]}

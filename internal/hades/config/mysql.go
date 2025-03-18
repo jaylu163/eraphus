@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/jaylu163/eraphus/internal/hades/engine"
-	"github.com/jaylu163/eraphus/internal/hades/logs"
+	"github.com/jaylu163/eraphus/internal/hades/logging"
 	"log"
 	"time"
 
@@ -53,7 +53,7 @@ func (my *mysqlProxy) new() *engine.MysqlConn {
 	dsn := fmt.Sprintf(mysqldsn, my.username, my.password, my.host, my.port, my.dbname)
 	fmt.Println("dsn:ssss:", dsn)
 	newLogger := loggerorm.New(
-		log.New(logs.LogInit(), "mysql:", log.LstdFlags), // io writer（日志输出的目标，前缀和日志包含的内容——译者注）
+		log.New(logging.LogInit(), "mysql:", log.LstdFlags), // io writer（日志输出的目标，前缀和日志包含的内容——译者注）
 		loggerorm.Config{
 			SlowThreshold:             time.Second,    // 慢 SQL 阈值
 			LogLevel:                  loggerorm.Info, // 日志级别

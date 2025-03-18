@@ -1,0 +1,16 @@
+2023-03-16 09:43:06 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": null}
+2023-03-16 09:47:41 [31mERROR[0m logs/logger_test.go:21 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": [{"Key":"func","Type":15,"Integer":0,"String":"test","Interface":null}]}
+2023-03-16 10:11:12 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": null}
+2023-03-16 10:13:44 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": ["trace_id","a4ef8422-6847-4a56-b6fc-478b91e3820a",null]}
+2023-03-16 10:16:14 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": ["trace_id","4923c70d-bd28-4d7b-bdb5-1f27fdf3f123",[["bar"],"baz"]]}
+2023-03-16 10:17:13 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key-value pairs with non-string keys. {"invalid": [{"position": 0, "key": ["trace_id","b340e49f-c96b-44ed-a078-7b8bb8e7ed11"], "value": null}]}
+2023-03-16 10:17:51 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": null}
+2023-03-16 10:18:13 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": null}
+2023-03-16 10:18:26 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key-value pairs with non-string keys. {"invalid": [{"position": 0, "key": ["trace_id","755e420a-a477-4054-8f7d-94ab08cd56e1"], "value": null}]}
+2023-03-16 10:18:47 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": null}
+2023-03-16 10:18:47 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key-value pairs with non-string keys. {"invalid": [{"position": 0, "key": ["trace_id"], "value": "1414d90d-b1c6-414e-bde1-0ecc9f08a234"}]}
+2023-03-16 10:19:16 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": null}
+2023-03-16 10:19:16 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key-value pairs with non-string keys. {"invalid": [{"position": 0, "key": ["trace_id"], "value": "d55372db-a4e2-4037-a828-495f583f141c"}]}
+2023-03-16 10:19:50 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": [["name","zhang"]]}
+2023-03-16 10:19:50 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key-value pairs with non-string keys. {"invalid": [{"position": 0, "key": ["trace_id"], "value": "76870c32-1572-4e6e-801d-c9720b4dd996"}]}
+2023-03-16 10:20:24 [31mERROR[0m logs/logger_test.go:20 ai-peaceful-gihub.com/hades/logs.TestSugarInit Ignored key without a value. {"ignored": [["name","zhang"]]}

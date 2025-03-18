@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jaylu163/eraphus/handler"
+	"github.com/jaylu163/eraphus/internal/handler"
 )
 
 func InitRoute(route *gin.Engine) {

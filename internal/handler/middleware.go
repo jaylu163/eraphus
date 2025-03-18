@@ -2,7 +2,7 @@ package handler
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jaylu163/eraphus/internal/hades/logs"
+	"github.com/jaylu163/eraphus/internal/hades/logging"
 	"github.com/jaylu163/eraphus/internal/hades/trace"
 	"time"
 )
@@ -16,7 +16,7 @@ func RequestLogger() gin.HandlerFunc {
 		end := time.Now()
 		latency := end.Sub(start)
 
-		entry := logs.WithFields{
+		entry := logging.WithFields{
 			Status: c.Writer.Status(),
 			Method: c.Request.Method,
 			Path:   path,
@@ -33,7 +33,7 @@ func RequestLogger() gin.HandlerFunc {
 		}
 		// 生成的traceId 重新传递给gin.Context
 		c.Request = c.Request.WithContext(trace.NewTraceIDContext(c.Request.Context(), traceId))
-		logs.WithField(entry)
+		logging.WithField(entry)
 		c.Next()
 		// 服务请求的时候初始化 todo 待定，每次请求都初始化会浪费资源
 		//service.Init()

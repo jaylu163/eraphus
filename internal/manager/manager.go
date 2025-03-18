@@ -3,7 +3,7 @@ package manager
 import (
 	"fmt"
 	"github.com/jaylu163/eraphus/internal/hades/config"
-	"github.com/jaylu163/eraphus/internal/hades/logs"
+	"github.com/jaylu163/eraphus/internal/hades/logging"
 )
 
 type Manager struct {
@@ -17,7 +17,7 @@ func Init() {
 	// 配置中的服务资源都在这块初始化
 	err := config.InitMysql("weishiji")
 	if err != nil {
-		logs.Errorf("init mysql weishiji err:%v", err)
+		logging.Errorf("init mysql weishiji err:%v", err)
 	}
 	fmt.Println("err:", err)
 	/*err = config.InitMysql("user")

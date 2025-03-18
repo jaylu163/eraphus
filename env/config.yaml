@@ -7,6 +7,7 @@ LogConf:
   MaxBackups: 5
 ServerConf:
   Port: 6600
+  ServerName: video.spider.tencent
 
 Mysql:
   - Name: weishiji
@@ -31,3 +32,9 @@ Redis:
     Host: "81.68.203.164:6380"
     Password: "alibabaownmymoney"
     DB: 1
+
+
+ServerClient:
+  - Name: user.base.server
+    IP: 0.0.0.0
+    Port: 9527

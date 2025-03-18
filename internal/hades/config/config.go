@@ -1,6 +1,6 @@
 package config
 
-import "github.com/jaylu163/eraphus/internal/hades/logs"
+import "github.com/jaylu163/eraphus/internal/hades/logging"
 
 // HadesConfig 基础框架配置共用参数结构体
 /*
@@ -13,9 +13,9 @@ import "github.com/jaylu163/eraphus/internal/hades/logs"
  ... etc
 */
 
-// HadesConfig
+// HadesConfig 	基础框架配置共用参数结构体
 type HadesConfig struct {
-	LogConf       logs.LogConf        `yaml:"LogConf" toml:"log_conf"`
+	LogConf       logging.LogConf     `yaml:"LogConf" toml:"log_conf"`
 	ServerConf    ServerConf          `yaml:"ServerConf" toml:"server_conf"`
 	ClientConf    []ClientConf        `yaml:"ClientConf" toml:"client_conf"`
 	Mysql         []MysqlConf         `yaml:"Mysql" toml:"mysql"`

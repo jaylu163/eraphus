@@ -1,9 +1,9 @@
 package config
 
 import (
-	"github.com/jaylu163/eraphus/internal/hades/logs"
+	"github.com/jaylu163/eraphus/internal/hades/logging"
 )
 
-func logInit(logConf *logs.LogConf) {
-	logs.SugarInit(logConf)
+func logInit(logConf *logging.LogConf) {
+	logging.SugarInit(logConf)
 }

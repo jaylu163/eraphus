@@ -3,9 +3,9 @@ package service
 import (
 	"bytes"
 	"context"
-	"github.com/jaylu163/eraphus/internal/hades/logs"
-	"github.com/jaylu163/eraphus/manager"
-	"github.com/jaylu163/eraphus/models"
+	"github.com/jaylu163/eraphus/internal/hades/logging"
+	"github.com/jaylu163/eraphus/internal/manager"
+	"github.com/jaylu163/eraphus/internal/models"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -14,16 +14,16 @@ import (
 func GetHotRec(ctx context.Context, urlCover string) ([]models.HotRec, error) {
 	ret, err := manager.GetRestCli().R().Get(urlCover)
 	if err != nil {
-		logs.WithFor(ctx, "func:", "GetHotRec").Errorf("resty get err:%v", err)
+		logging.WithFor(ctx, "func:", "GetHotRec").Errorf("resty get err:%v", err)
 		return nil, err
 	}
 	if ret.StatusCode() != 200 {
-		logs.Errorf("status code error: %d  %s", ret.StatusCode, ret.Status)
+		logging.Errorf("status code error: %d  %s", ret.StatusCode, ret.Status)
 		return nil, err
 	}
 	docReader, err := goquery.NewDocumentFromReader(bytes.NewReader(ret.Body()))
 	if err != nil {
-		logs.Errorf("NewDocumentFromReader err:%v", err)
+		logging.Errorf("NewDocumentFromReader err:%v", err)
 	}
 	hotRecList := []models.HotRec{}
 	// 获取热门视频列表
@@ -53,7 +53,7 @@ func GetHotRec(ctx context.Context, urlCover string) ([]models.HotRec, error) {
 // GetVideoList 获取腾讯视频电视
 func GetVideoList(ctx context.Context, tcDetailUrl string) ([]models.TVPlayInfo, error) {
 	ret, err := manager.GetRestCli().R().Get(tcDetailUrl)
-	logging := logs.WithFor(ctx, "func:", "GetVideoList")
+	logging := logging.WithFor(ctx, "func:", "GetVideoList")
 	if err != nil {
 		logging.Errorf("resty get err:%v", err)
 		return nil, err

@@ -2,7 +2,7 @@ package handler
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jaylu163/eraphus/service"
+	"github.com/jaylu163/eraphus/internal/service"
 	"net/http"
 )
 

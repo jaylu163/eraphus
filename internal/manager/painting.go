@@ -3,7 +3,7 @@ package manager
 import (
 	"context"
 	"github.com/jaylu163/eraphus/internal/hades/engine"
-	"github.com/jaylu163/eraphus/models"
+	"github.com/jaylu163/eraphus/internal/models"
 )
 
 func GetMysqlConn(name string) *engine.MysqlConn {

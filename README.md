@@ -4,4 +4,4 @@
 ```
 ## 功能
 目前支持日志trace,mysql ,redis等操作
-后面增加
+>后面增加 consul 
