@@ -53,18 +53,18 @@ func GetHotRec(ctx context.Context, urlCover string) ([]models.HotRec, error) {
 // GetVideoList 获取腾讯视频电视
 func GetVideoList(ctx context.Context, tcDetailUrl string) ([]models.TVPlayInfo, error) {
 	ret, err := manager.GetRestCli().R().Get(tcDetailUrl)
-	logging := logging.WithFor(ctx, "func:", "GetVideoList")
+	log := logging.WithFor(ctx, "func:", "GetVideoList")
 	if err != nil {
-		logging.Errorf("resty get err:%v", err)
+		log.Errorf("resty get err:%v", err)
 		return nil, err
 	}
 	if ret.StatusCode() != 200 {
-		logging.Errorf("status code error: %d  %s", ret.StatusCode, ret.Status)
+		log.Errorf("status code error: %d  %s", ret.StatusCode, ret.Status)
 		return nil, err
 	}
 	docReader, err := goquery.NewDocumentFromReader(bytes.NewReader(ret.Body()))
 	if err != nil {
-		logging.Errorf("NewDocumentFromReader err:%v", err)
+		log.Errorf("NewDocumentFromReader err:%v", err)
 	}
 	tvList := []models.TVPlayInfo{}
 	docReader.Find("div.episode-list-rect__item").Each(func(i int, selection *goquery.Selection) {
@@ -82,7 +82,9 @@ func GetVideoList(ctx context.Context, tcDetailUrl string) ([]models.TVPlayInfo,
 			HumanVid: curentJIshu,
 		})
 	})
-	logging.Infof("video info cid:%s vid:%s", "aaa", "bbb")
+	log.Infof("video info cid:%s vid:%s", "aaa", "bbb")
+
+	manager.GetHotList(ctx, "123")
 	return tvList, nil
 }
 

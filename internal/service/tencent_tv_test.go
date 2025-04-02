@@ -2,8 +2,8 @@ package service
 
 import (
 	"fmt"
-	selfConfig "github.com/jaylu163/eraphus/config"
-	"github.com/jaylu163/eraphus/manager"
+	selfConfig "github.com/jaylu163/eraphus/internal/config"
+	"github.com/jaylu163/eraphus/internal/manager"
 	"golang.org/x/net/context"
 	"os"
 	"strings"
